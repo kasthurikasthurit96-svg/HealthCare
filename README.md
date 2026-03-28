@@ -1,4 +1,4 @@
-**Healthcare Patient Analysis System**
+<img width="899" height="1015" alt="image" src="https://github.com/user-attachments/assets/b7d0427b-6235-4cd1-b4de-1e42101ce8d4" />**Healthcare Patient Analysis System**
 
  **Introduction**
 
@@ -40,28 +40,34 @@ The system generates realistic healthcare data using Faker and applies data anal
 
  **Data Fields Description**
 
-|** Field Name **    |** Description  **              |
-
-| -------------- | ---------------------------------- |
-
-| Patient_ID     | Unique identifier for each patient |
-
-| Name           | Generated patient name             |
-
-| Age            | Patient age (20–80 years)          |
-
-| Gender         | Male / Female                      |
+| **Field Name**    | **Description**                    |
 
 
-| Disease        | Type of illness                    |
+| Patient_ID        | Unique identifier for each patient |
 
-| Sugar_Level    | Blood sugar level                  |
 
-| Heart_Rate     | Beats per minute                   |
+| Name              | Generated patient name             |
 
-| City           | Patient location                   |
 
-| Admission_Date | Date of hospital admission         |
+| Age               | Patient age (20–80 years)          |
+
+
+| Gender            | Male / Female                      |
+
+
+| Disease           | Type of illness                    |
+
+
+| Sugar_Level       | Blood sugar level                  |
+
+
+| Heart_Rate        | Beats per minute                   |
+
+
+| City              | Patient location                   |
+
+
+| Admission_Date    | Date of hospital admission         |
 
 
 
