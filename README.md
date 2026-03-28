@@ -41,22 +41,33 @@ The system generates realistic healthcare data using Faker and applies data anal
  **Data Fields Description**
 
 |** Field Name **    |** Description  **              |
+
 | -------------- | ---------------------------------- |
+
 | Patient_ID     | Unique identifier for each patient |
+
 | Name           | Generated patient name             |
+
 | Age            | Patient age (20–80 years)          |
+
 | Gender         | Male / Female                      |
+
+
 | Disease        | Type of illness                    |
+
 | Sugar_Level    | Blood sugar level                  |
+
 | Heart_Rate     | Beats per minute                   |
+
 | City           | Patient location                   |
+
 | Admission_Date | Date of hospital admission         |
 
 
 
-## 🔍 Exploratory Data Analysis (EDA)
+ **Exploratory Data Analysis (EDA)**
 
-The project includes:
+**The project includes:**
 
 * Distribution analysis of age and sugar levels
 * Disease frequency analysis
